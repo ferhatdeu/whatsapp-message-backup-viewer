@@ -19,35 +19,6 @@ A premium, private, and powerful mobile application to view and export your What
 Your privacy is our top priority. You can find our full Privacy Policy here:
 **[Privacy Policy](PRIVACY_POLICY.md)**
 
-## 🛠️ Installation & Development
-
-This project is built with **Expo** and **React Native**.
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/ferhatdeu/WhatsApp-Message-Backup-View.git
-   cd WhatsApp-Message-Backup-View
-   ```
-
-2. **Install dependencies:**
-   ```bash
-   npm install
-   ```
-
-3. **Start the project:**
-   ```bash
-   npx expo start
-   ```
-
-## 🚀 Deployment
-
-Built and deployed using **EAS (Expo Application Services)**.
-
-```bash
-# To build for Android Production
-eas build --platform android --profile production
-```
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
